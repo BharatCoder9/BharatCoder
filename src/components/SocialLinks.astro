@@ -1,5 +1,5 @@
-<div class="social-links">
-    <a href="https://twitter.com/BharatCoder" target="_blank">
+<div class="social-links flex">
+    <a class="mx-2" href="https://twitter.com/BharatCoder" target="_blank">
         <span class="sr-only">Follow on Twitter</span>
         <svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
             ><path
@@ -8,7 +8,7 @@
             ></path></svg
         >
     </a>
-    <a href="https://github.com/BharatCoder9" target="_blank">
+    <a  class="mx-2" href="https://github.com/BharatCoder9" target="_blank">
         <span class="sr-only">GitHub profile</span>
         <svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
             ><path
@@ -19,27 +19,3 @@
     </a>
 </div>
 
-
-<style>
-.social-links,
-.social-links a {
-    display: flex;
-}
-
-.social-links a {
-    padding: 1em 0.5em;
-    color: var(--gray);
-    border-bottom: 4px solid transparent;
-    text-decoration: none;
-}
-
-.social-links a:hover {
-    color: rgb(var(--gray-dark));
-}
-
-@media (max-width: 720px) {
-    .social-links {
-        display: none;
-    }
-}
-</style>

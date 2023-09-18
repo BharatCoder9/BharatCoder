@@ -2,7 +2,6 @@
 title: 'Building My Personal Portfolio Site and Hosting for Free'
 description: 'Building My Personal Portfolio Site with Astro, Tailwind CSS, Daisy UI, and Hosting on Vercel'
 pubDate: 'Sept 15 2023'
-heroImage: '/blog-placeholder-3.jpg'
 ---
 
 ## Introduction
