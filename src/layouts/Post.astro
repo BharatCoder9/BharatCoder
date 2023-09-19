@@ -25,10 +25,16 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						)
 					}
 				</div>
-				<h1>{title}</h1>
+				<h1 class="heading">{title}</h1>
 				<hr />
 			</div>
 			<slot />
 		</div>
 	</article>
 </Layout>
+
+<style>
+	.heading {
+		margin-top: 1rem;
+	}
+</style>

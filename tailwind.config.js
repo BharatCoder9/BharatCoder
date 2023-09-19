@@ -11,7 +11,7 @@ module.exports = {
       },
     },
     daisyui: {
-      themes: ["pastel", "dracula"],
+      themes: ["emerald", "dracula"],
     },
   };
   
