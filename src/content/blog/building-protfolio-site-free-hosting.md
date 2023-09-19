@@ -1,6 +1,6 @@
 ---
 title: 'Building My Personal Portfolio Site and Hosting for Free'
-description: 'Building My Personal Portfolio Site with Astro, Tailwind CSS, Daisy UI, and Hosting on Vercel'
+description: 'Discover how to create a stunning personal portfolio website with Astro, Tailwind CSS, Daisy UI, and seamlessly host it on Vercel. Learn step-by-step from project setup to deployment, and unlock the power of these modern web development tools to showcase your skills and accomplishments effectively'
 pubDate: 'Sept 15 2023'
 ---
 
